@@ -5,4 +5,5 @@
 - [阵营之争](Belong.md)
 - [选择](Select.md)
 - [一些问题](SomeP.md)
-- [安装](Try.md)
+- [试用](Try.md)
+- [安装](Install.md)
